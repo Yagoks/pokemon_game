@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Pygame cache e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Sistemas operacionais
+.DS_Store          # macOS
+Thumbs.db          # Windows
+desktop.ini        # Windows
+
+# IDEs e editores de texto
+.vscode/           # VS Code
+.idea/             # JetBrains (PyCharm)
+*.sublime-workspace
+
+# Arquivos de ambiente virtual
+.env/
+.venv/
+env/
+venv/
+
+# Dependências do Python
+*.egg-info/
+dist/
+build/
+*.egg
+*.whl
+
+# Outros arquivos sensíveis ou desnecessários
+.env               # Arquivos de variáveis de ambiente
+*.sqlite3          # Bases de dados locais
