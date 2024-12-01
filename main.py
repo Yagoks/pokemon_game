@@ -9,7 +9,7 @@ from pokemon.squirtle import Squirtle
 from pokemon.charmander import Charmander
 from pokemon.eevee import Eevee
 
-# Escolher Pokemon e nome do treinador
+# Escolher Pokemons e nome do treinador
 from trainer_selection import selecionar_nome_treinador
 from pokemon_selection import escolher_pokemon, escolher_oponente
 
